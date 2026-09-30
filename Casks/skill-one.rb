@@ -1,8 +1,8 @@
 cask "skill-one" do
-  version "0.19.0"
-  sha256 "644b73e10ec37af77fdd0650b46a9247a26acb8c46f15864ede88c283706d271"
+  version "0.20.0"
+  sha256 "6735d388dd6d5dfb3b22bbd4d29101d7e21da66579391c79a7cbe817487789e1"
 
-  url "https://github.com/skill-one/skill-one/releases/download/v0.19.0/Skill One_0.19.0_aarch64.dmg"
+  url "https://github.com/skill-one/skill-one/releases/download/v0.20.0/Skill One_0.20.0_aarch64.dmg"
   name "Skill One"
   desc "Find, install and manage agent skills (Tauri v2 desktop app)"
   homepage "https://github.com/skill-one/skill-one"
